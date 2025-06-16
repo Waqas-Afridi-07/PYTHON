@@ -13,7 +13,7 @@ b = int(a) # string to integer
 t = type(b)
 print(t) 
 
-a = 32.0
+a = 45.0
 b = int(a) # float to integer 
 t = type(b)
-print(t)
+print(t) 
