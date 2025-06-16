@@ -2,7 +2,7 @@ a = 1 # variable name can start with an alphabet
 
 1 = a # variable name can start with a digit or number
 
-_ali # variable name can start with an underscore 
+ali_ = 32 # variable name can start with an underscore 
 
 ibrar = 17 # variable name can start with alphabetical words
 
