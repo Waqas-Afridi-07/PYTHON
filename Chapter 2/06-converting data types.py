@@ -1,19 +1,19 @@
-a = 31
-b = str(31) # integer to string data type
+a = 21
+b = str(a) # int to string
+t = type(b)
+print(t) 
+
+a = 21.0
+b = int(a) # float to integer
 t = type(b)
 print(t)
 
-a = 31
-b = float(a) # integer to float
-t = type(b)
-print(t)
-
-a = "32"
+a = "21"
 b = int(a) # string to integer
 t = type(b)
-print(t) 
+print(t)
 
-a = 45.0
-b = int(a) # float to integer 
+a = True
+b = float(a) # boolean  to float
 t = type(b)
-print(t) 
+print(t)
