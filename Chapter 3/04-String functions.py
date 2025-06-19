@@ -11,7 +11,7 @@ count = string.count("a") # for counting characters given by the user
 print(count)
 
 s = "Hi, homies"
-print(s.find("h")) # for finding characters of the user's will
+print(s.find("h")) # for finding characters of the user's will.
 
 t = "Thanks Enola!"
 print(t.find("a", 3))
