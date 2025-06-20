@@ -1,0 +1,5 @@
+me = ("waqas", 17, "first year")
+
+me [1] = 18
+
+print(me)
