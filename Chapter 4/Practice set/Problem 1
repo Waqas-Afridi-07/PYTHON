@@ -1,0 +1,24 @@
+Fruits = []
+
+fruit1 = input(("Enter fruit name: "))
+Fruits.append(fruit1)
+
+fruit2 = input(("Enter fruit name: "))
+Fruits.append(fruit2)
+
+fruit3 = input(("Enter fruit name: "))
+Fruits.append(fruit3)
+
+fruit4 = input(("Enter fruit name: "))
+Fruits.append(fruit4)
+
+fruit5 = input(("Enter fruit name: "))
+Fruits.append(fruit5)
+
+fruit6 = input(("Enter fruit name: "))
+Fruits.append(fruit6)
+
+fruit7 = input(("Enter fruit name: "))
+Fruits.append(fruit7)
+
+print(Fruits)
