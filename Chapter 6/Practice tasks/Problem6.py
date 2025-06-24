@@ -16,4 +16,4 @@ elif(marks<=60 and marks>=50):
     print("Grade D")     
 
 elif(marks<50):
-    print("Grade F, Better luck next")
+    print("Grade F, Better luck next time")
