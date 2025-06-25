@@ -38,7 +38,7 @@ print(b)
 
 # Logical operators: They are used for combining conditions. They're "and" (returns true if both are true)
                                                                 # "or" (returns true if at least one is true) 
-                                                                #  "not" (it reverse the condition
+                                                                #  "not" (it reverse the condition)
 
 # Truth table of "and" 
 print("True and False is", True and False)
