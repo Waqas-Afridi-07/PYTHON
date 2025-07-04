@@ -1,1 +1,1 @@
-print(e.salaryAfterIncrement)
+1, 2, 3
