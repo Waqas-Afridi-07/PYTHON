@@ -13,7 +13,7 @@ class Vector:
         return result
     
     def __str__(self):
-        return f"Vector({self.x}, {self.y}, {self.z})"
+        return f"Vector({self.x}i + {self.y}j + {self.z}k)"
     
 # Test the implementation
 v1 = Vector(1, 2, 3)
